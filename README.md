@@ -26,7 +26,7 @@ Degree     : Bachelor's in Information Technology
 Status     : Student 🎓
 Location   : Pokhara, Nepal 📍
 Learning   : Java ☕ & Python 🐍
-Interests  : Coding | Gaming | Cricket | Movies
+Interests  : Coding | Gaming | Cricket | Movies | Tech
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
