@@ -20,7 +20,7 @@
 ## 👾 About Me
 
 ```yaml
-Name       : Gaurav
+Name       : Gaurav Karki
 College    : Informatics College of Pokhara
 Degree     : Bachelor's in Information Technology
 Status     : Student 🎓
